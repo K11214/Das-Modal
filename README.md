@@ -1,2 +1,2 @@
 # Das-Modal
-A fashion renting subscription website.
+A fashion items monthly subscription website.
